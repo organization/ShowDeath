@@ -1,0 +1,5 @@
+name: ShowDeath
+main: io.murye.showdeath.ShowDeath
+author: 110EIm
+version: "1.0"
+api: ["1.0.0"]
