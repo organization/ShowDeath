@@ -5,7 +5,6 @@ import cn.nukkit.Server;
 import cn.nukkit.scheduler.AsyncTask;
 import milk.tagmanager.text.Tag;
 
-import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 
